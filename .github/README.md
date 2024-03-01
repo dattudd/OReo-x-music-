@@ -1,59 +1,27 @@
-<img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
-
-# Yukki Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
-
-[Yukki Music Bot](https://github.com/TeamYukki/YukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
-
-* Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
-* Written from scratch, making it stable and less crashes with attractive thumbnails.
-* Loop, Seek, Shuffle, Specific Skip, Playlists etc support
-* Multi-Language support
+ 
+ <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=🧋+𝗛𝗔𝗣𝗣𝗬+𝗡𝗘𝗪+𝗬𝗘𝗔𝗥+❷⓿❷❹+🧋">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-# ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
+<h2 align="center">
+    ᥫᩣ ─「 OREO x music 」─ ᥫᩣ
 
-> The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
+ ⚘ ʜᴇʀᴏᴋᴜ + ᴠᴘs ⚘
+</h2>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0786&width=420&lines=Ⰶ+ʜᴇʏ+ᴄᴜᴛɪᴇ+ᴅᴇᴘʟᴏʏ+ʙᴏᴛ+ᴏɴ+ʜᴇʀᴏᴋᴜ+Ⰶ;Ⰶ+ɪғ+ʏᴏᴜ+ᴅᴏɴ'ᴛ+ʜᴀᴠᴇ+ʜᴇʀᴏᴋᴜ+ᴀᴄᴄᴏᴜɴᴛ+Ⰶ;Ⰶ+ᴛʜᴇɴ+ᴅᴇᴘʟᴏʏ+ᴀʟsᴏ+ᴏɴ+ᴠᴘs+sᴇʀᴠᴇʀ+Ⰶ;Ⰶ+ᴘᴏᴡᴇʀᴇᴅ+ʙʏ+ʀᴏʏ+ᴇᴅɪᴛx+Ⰶ">
+<p align="center">
+  <img src="https://telegra.ph/file/997b0fb42265afa8f44f2.jpg">
 
-## ⚠️ Heroku / Okteto / Railway
 
-We have temporarily disabled the deployment for  all these cloud service platforms due to security and ban issues. We don't want innocent users who sign up there to be banned from the platform as a result of this deployment. [Read More](https://t.me/TheYukki/2541)
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/dattudd/dattudd"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-## 🖇 Generating Pyrogram String Session
+<p align="center">
+  <img src="https://telegra.ph/file/97016b03b8f5deb545545.jpg"
 
-<p>
-<a href="https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-<a href="https://t.me/YukkiStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+
+
+<p align="center">
+<a href="https://t.me/DFSchinna_op"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 chinna%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
+<h3 align="center
 
-## 🖇 VPS Deployment
-
-Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
-
-
-# 🏷 Support / Assistance
-
-Reach out to the maintainer at one of the following places:
-
-- [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
-- [Telegram Support](https://t.me/YukkiSupport)
-
-If you want to say **thank you** or/and support active development of YukkiMusicBot:
-
-- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
-- Fork the Repo :)
-- Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
-
-Together, we can make **YukkiMusicBot** better!
-# 📑 Acknowledgement / Credits
-
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
-
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [CallsMusic Team](https://github.com/Callsmusic)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
-- [Aarav Arora](https://github.com/axrav)
-
-
-Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
